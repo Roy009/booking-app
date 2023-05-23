@@ -3,7 +3,7 @@
     background-color: #003580;
     display: flex;
     justify-content: center;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .navContainer{
     width: 100%;
